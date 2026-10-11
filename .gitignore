@@ -1,0 +1,10 @@
+bin/
+*.class
+*.jar
+!lib/*.jar
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
